@@ -1,5 +1,5 @@
 {
-  "name": "@pancakeswap/sdk",
+  "name": "@golfswap-testnet/sdk",
   "license": "MIT",
   "version": "2.4.0",
   "description": "🛠 An SDK for building applications on top of Pancakeswap.",
@@ -8,9 +8,9 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-swap-sdk.git",
+  "repository": "https://github.com/disorn-inc/golf-swap-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "golfswap",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
